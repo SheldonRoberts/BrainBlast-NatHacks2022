@@ -1,11 +1,10 @@
 # BrainBlast-NatHacks2022
 Brain Blast is a two-player Virtual Reality battle game. Each player controls a laser beam that's strength comes from their EEG-measured concentration levels. If you can out-focus your opponent, an explosive victory is awaiting you. Do you have what it takes to blast away the competition?
 
-![Gameplay_1.PNG](Gameplay_1.PNG) ![Gameplay_2.gif](Gameplay_2.gif)
+<img src="Gameplay_1.PNG" width="425"/> <br> <img src="Gameplay_2.gif" width="425"/>
 
 # How it works
 ![diagram](diagram.png)
-[Python Muse API](MuseAPIs)
 
 This game requires: 
 
